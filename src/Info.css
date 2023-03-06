@@ -1,0 +1,50 @@
+
+.img-man{
+    border-radius: 5px;
+    margin-left: 32%;
+    width: 170px;
+    height: 35vh;
+    
+  }
+  
+  
+  .h3{
+    margin-left: 29%;
+    word-spacing: 0.2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(255, 255, 255);
+  }
+  
+  .h4{
+    margin-left: 31%;
+    margin-top: 3px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    color: orange;
+  }
+  
+  .website{
+    margin-left: 35%;
+    font-style: italic;
+    color: white;
+  }
+  
+  .form-input{
+    display: flex;
+    margin-left: 28%;
+  }
+  
+  .email{
+    margin-right: 20px;
+    width: 100px;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .linkdin{
+    padding: 5px;
+    border-radius: 5px;
+    width: 100px;
+    background: rgb(0, 0, 255);
+    color: rgb(255, 255, 255);
+  }

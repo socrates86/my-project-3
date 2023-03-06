@@ -1,0 +1,11 @@
+.about{
+    color: white;
+    margin-left: 2rem;
+  }
+
+  .para-text{
+    /* text-align:justify; */
+    max-width: 600px;
+    margin-left: 2rem;
+    color: white;
+  }
